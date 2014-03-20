@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Xbee API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Xbee Processing API/library/xbee.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Xbee Processing API/source" />
+    </SOURCES>
+  </library>
+</component>
