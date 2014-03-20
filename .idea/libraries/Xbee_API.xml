@@ -1,11 +1,14 @@
 <component name="libraryTable">
   <library name="Xbee API">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../Xbee Processing API/library/xbee.jar!/" />
+      <root url="file://$PROJECT_DIR$/../xbee-api" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../xbee-api/docs/api" />
+    </JAVADOC>
     <SOURCES>
-      <root url="file://$PROJECT_DIR$/../Xbee Processing API/source" />
+      <root url="file://$PROJECT_DIR$/../xbee-api/src" />
     </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../xbee-api" recursive="false" />
   </library>
 </component>
