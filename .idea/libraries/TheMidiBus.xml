@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="TheMidiBus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TheMidiBus/library/themidibus.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../TheMidiBus/reference" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../TheMidiBus/src" />
+    </SOURCES>
+  </library>
+</component>

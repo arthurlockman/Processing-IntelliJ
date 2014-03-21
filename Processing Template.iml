@@ -9,6 +9,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Processing Core" level="project" />
     <orderEntry type="library" name="Xbee API" level="project" />
+    <orderEntry type="library" name="TheMidiBus" level="project" />
   </component>
 </module>
 
