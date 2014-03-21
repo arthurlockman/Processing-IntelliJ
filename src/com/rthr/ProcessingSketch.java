@@ -10,7 +10,7 @@ public class ProcessingSketch extends PApplet
 
 	public void setup()
 	{
-
+		size(200,200);
 	}
 
 	public void draw()
